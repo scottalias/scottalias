@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scottalias
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a homework assignment
+- 💞️ Working on C195 Software II
 - 📫 How to reach me 
 
 <!---
